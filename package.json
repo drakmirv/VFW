@@ -1,0 +1,9 @@
+{
+    "name" : "com.drakmir.vfw",
+    "displayName": "VFW - Drakmir's Fork",
+    "version": "1.0.0-alpha.1",
+    "unity": "2018.3",
+    "description": "VFW - Vexe Framework [Fork]\nVFW is an editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity. A better drawing API, a faster GUI layout system for editor drawing, tons of attributes/drawers, helper types and more.\nThis is a fork of the original VFW project for Unity.\n\nIt contains the following enhancements:\n\u25AA Deprecated features removed.\n\u25AA Conversion to the Unity Package Manager format.\n\nGitHub Link: https://github.com/drakmirv/VFW\nOriginal GitHub Link: https://github.com/vexe/VFW",
+    "keywords": ["Editor", "Vexe", "Framework", "Property", "Inspector", "Drawers"],
+    "category": "Editor"
+}
